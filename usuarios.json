@@ -1,0 +1,6 @@
+{
+"usuarios":[
+{"usuario":"cliente1","clave":"1234"},
+{"usuario":"cliente2","clave":"abcd"}
+]
+}
