@@ -1,0 +1,15 @@
+body{margin:0;font-family:Arial;background:#f4f7ff;}
+header{background:#111;color:white;padding:20px;display:flex;justify-content:space-between;flex-wrap:wrap;}
+nav a{color:white;margin:10px;text-decoration:none;}
+.hero{padding:80px;text-align:center;background:linear-gradient(45deg,#0066ff,#00e1ff);color:white;}
+.stats{display:flex;justify-content:center;gap:60px;padding:40px;flex-wrap:wrap;}
+.cards{display:flex;flex-wrap:wrap;justify-content:center;}
+.card{background:white;padding:25px;margin:20px;border-radius:15px;box-shadow:0 10px 25px rgba(0,0,0,.1);transition:.3s;}
+.card:hover{transform:translateY(-10px);}
+.pricing{display:flex;flex-wrap:wrap;justify-content:center;}
+.price-card{background:white;padding:30px;margin:20px;border-radius:15px;box-shadow:0 10px 30px rgba(0,0,0,.1);}
+button{background:#007bff;color:white;border:none;padding:12px 20px;border-radius:10px;cursor:pointer;}
+button:hover{background:#0056d6;}
+.btn{background:#007bff;color:white;padding:12px 25px;border-radius:10px;text-decoration:none;}
+footer{background:#111;color:white;padding:25px;text-align:center;}
+.whatsapp{position:fixed;bottom:20px;right:20px;font-size:30px;background:#25D366;color:white;padding:15px;border-radius:50%;}
